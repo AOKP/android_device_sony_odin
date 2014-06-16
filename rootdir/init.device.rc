@@ -32,4 +32,4 @@ on boot
     chown system camera /sys/devices/i2c-0/0-0053/status
 
     # Camera/Libals
-    chown media input /dev/input/event11
+    chown media input /dev/input/event10
